@@ -1,0 +1,11 @@
+To create a new empty file inside the new directory you just created in a Git repository, follow these steps:
+
+Navigate to the new directory in your command line or terminal using the cd command. For example, if the new directory is called "new_directory", type cd new_directory.
+
+Use the command touch followed by the name of the file you want to create. For example, if you want to create a file called "new_file.txt", type touch new_file.txt. This will create an empty file called new_file.txt in the current directory.
+
+Use the git add command to stage the new file for commit. For example, type git add new_file.txt.
+
+Commit the changes using the git commit command with an appropriate commit message. For example, type git commit -m "Added new_file.txt"
+
+After these steps, the new empty file new_file.txt should be created in the new directory in your Git repository and tracked by Git. You can check the status of your Git repository by running git status.
