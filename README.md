@@ -1,5 +1,7 @@
-#ALX SE#
-####My software development journey####
+#ALX SE
+---
+###My software development journey
+---
 ```bash
 mkdir
 pwd
