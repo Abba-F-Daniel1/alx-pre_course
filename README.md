@@ -1,6 +1,6 @@
-#ALX SE#
+ALX SE
 ---
-###My software development journey###
+My software development journey
 ---
 ```bash
 mkdir
